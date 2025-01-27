@@ -23,8 +23,8 @@ sed -i.bkp "s/ORG_ID_TOKEN/$1/g" json-logger/pom.xml
 # Deploying to Exchange
 echo "Deploying to Exchange..."
 
-echo mvn -f json-logger/pom.xml clean deploy
-mvn -f json-logger/pom.xml clean deploy
+echo mvn -f json-logger/pom.xml clean deploy -s template-files/settings.xml
+mvn -f json-logger/pom.xml clean deploy -s template-files/settings.xml
 
 if [ $? != 0 ]
 then
