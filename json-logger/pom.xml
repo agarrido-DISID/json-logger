@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>ORG_ID_TOKEN</groupId>
+    <groupId>4ea3d564-b9e4-487e-8dee-1c8c43aa923d</groupId>
     <artifactId>json-logger</artifactId>
     <version>2.1.0</version>
     <packaging>mule-extension</packaging>
@@ -174,7 +174,7 @@
         <repository>
             <id>Exchange2</id>
             <name>Exchange2 Repository</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v1/organizations/${project.groupId}/maven</url>
+            <url>https://maven.eu1.anypoint.mulesoft.com/api/v1/organizations/${project.groupId}/maven</url>
             <layout>default</layout>
         </repository>
     </repositories>
