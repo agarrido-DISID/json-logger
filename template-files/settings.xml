@@ -3,18 +3,18 @@
   <servers>
     <server>
       <id>Exchange2</id>
-      <username>ANYPOINT_USERNAME</username>
-      <password>ANYPOINT_PASSWORD</password>
+      <username>agarrido_DISID_ALPARGATAS_2</username>
+      <password>4G4RRiD0_DiSiD!0#</password>
     </server>
     <server>
       <id>anypoint-exchange-v3</id>
-      <username>ANYPOINT_USERNAME</username>
-      <password>ANYPOINT_PASSWORD</password>
+      <username>agarrido_DISID_ALPARGATAS_2</username>
+      <password>4G4RRiD0_DiSiD!0#</password>
     </server>
     <server>
       <id>MuleRepository</id>
-      <username>CUSTOMER_EE_REPO_USERNAME</username>
-      <password>CUSTOMER_EE_REPO_PASSWORD</password>
+      <username>agarrido_DISID_ALPARGATAS_2</username>
+      <password>4G4RRiD0_DiSiD!0#</password>
     </server>
   </servers>
 
